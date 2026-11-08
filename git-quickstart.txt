@@ -1,0 +1,4 @@
+Git quick start
+git status shows the current branch and staged, unstaged, and untracked changes.
+git add stages selected changes for the next commit.
+git commit creates a commit from the staged changes.
